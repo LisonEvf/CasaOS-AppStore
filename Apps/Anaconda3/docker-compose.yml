@@ -2,7 +2,7 @@ name: anaconda3
 services:
   anaconda3:
     container_name: anaconda3
-    image: continuumio/anaconda3:2023.09-0
+    image: continuumio/anaconda3:2024.10-1
     network_mode: bridge
     restart: unless-stopped
     environment:
@@ -52,12 +52,12 @@ x-casaos:
   author: LisonEvf
   category: AI
   developer: LisonEvf
-  icon: https://cdn.jsdelivr.net/gh/LisonEvf/CasaOS-AppStore@main/Apps/Anaconda3/icon.png
-  thumbnail: https://cdn.jsdelivr.net/gh/LisonEvf/CasaOS-AppStore@main/Apps/Anaconda3/thumbnail.png
+  icon: https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@main/Apps/Anaconda3/icon.png
+  thumbnail: https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@main/Apps/Anaconda3/thumbnail.png
   screenshot_link:
-    - https://cdn.jsdelivr.net/gh/LisonEvf/CasaOS-AppStore@main/Apps/Autobrr/screenshot-1.png
-    - https://cdn.jsdelivr.net/gh/LisonEvf/CasaOS-AppStore@main/Apps/Autobrr/screenshot-2.png
-    - https://cdn.jsdelivr.net/gh/LisonEvf/CasaOS-AppStore@main/Apps/Autobrr/screenshot-3.png
+    - https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@main/Apps/Anaconda3/screenshot-1.png
+    - https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@main/Apps/Anaconda3/screenshot-2.png
+    - https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@main/Apps/Anaconda3/screenshot-3.png
   scheme: http
   hostname: ""
   port_map: "8888"
