@@ -1,32 +1,29 @@
 [
   {
-    "appid": "nextcloud"
+    "appid": "ragflow"
   },
   {
-    "appid": "adguard-home"
+    "appid": "cloudflared"
   },
   {
-    "appid": "open-webui-ollama"
+    "appid": "memos"
+  },
+  {
+    "appid": "transmission"
   },
   {
     "appid": "jellyfin"
   },
   {
-    "appid": "photoprism"
+    "appid": "immich"
   },
   {
-    "appid": "plex"
+    "appid": "n8n"
+  },
+  {
+    "appid": "swingmusic"
   },
   {
     "appid": "syncthing"
-  },
-  {
-    "appid": "qbittorrent"
-  },
-  {
-    "appid": "siyuan-note"
-  },
-  {
-    "appid": "gitea"
   }
 ]
